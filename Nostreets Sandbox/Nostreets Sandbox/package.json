@@ -2,7 +2,7 @@
   "name": "myproject",
   "version": "1.0.0",
   "devDependencies": {
-    "angular": "^1.7.5",
+    "angular": "^1.8.0",
     "angular-animate": "^1.7.5",
     "angular-cookies": "^1.7.5",
     "angular-modal-service": "^0.15.1",
